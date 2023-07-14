@@ -13,8 +13,7 @@
 * Qonesha Hunter
 
 ### Project description/outline
-    1. Merge the data
-         At least 1000 is good data
+    1. Merge the data (Didn't work going to use 1 dataset)
     2. Compare variables to Address Research questions
     3. Create visualizations of Analyses
     4. Incorporate an API into our data set
@@ -24,23 +23,28 @@
 
 ### Research questions
     1. How does the danceability correlate to popularity?
-    2. Total streams longevity?
-    3. Explicit content affect popularity? Male vs Female? Age of listener?
-    4. API Question: Popularity vs location of artist birth/life? 
+    2. How does energy compare to popularity?
+    3. How does Explicit content affect popularity? 
+    4. How does key compare to popularity?
+    5. How does acousticness compare to popularity?
+    6. How does liveness compare to popularity? (Boolean?)
+    7. How does valence compare to popularity?
+    8. How does tempo compare to popularity?
+    9. How does genre compare to popularity?
+    10. How does speechiness compare to popularity?
+    11. API Question: Popularity vs location of artist birth/life? 
+    12. API Question: Relating spotify popularity to youtube popularity?
 
 ### Datasets to be used
     https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019
     Top Hits Spotify from 2000-2019
 
-    https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs
-    Spotify Top 10000 Streamed Songs
-
     API:
     https://api.chartmetric.com/apidoc/
 
 ### Rough breakdown of tasks
-* Ryland - Initial Merge (Maybe as big group), Question 2: 2 Visualizations
-* Callie - Question 3: 2 Visualizations
-* Qonesha - Question 1: 2 Visualizations
-* Daniel - Presenter, API Question: 2 Visualizations
-* Christian - New Question?: 2 Visualizations
+* Ryland - Initial Merge 4, 6
+* Callie - 2 , 3
+* Qonesha - 8 , 9
+* Daniel - Presenter, 7, 10
+* Christian - 1, 5 
