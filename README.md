@@ -43,7 +43,7 @@
     https://api.chartmetric.com/apidoc/
 
 ### Rough breakdown of tasks
-* Ryland - Initial Merge 4, 6
+* Ryland - Initial Merge, 4, 6, Statistics Testing
 * Callie - 2 , 3
 * Qonesha - 8 , 9
 * Daniel - Presenter, 7, 10
