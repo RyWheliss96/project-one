@@ -43,8 +43,8 @@
     https://api.chartmetric.com/apidoc/
 
 ### Rough breakdown of tasks
-* Ryland - Initial Merge, 4, 6, Statistics Testing
-* Callie - 2 , 3
+* Ryland - Group Lead, Initial Merge (Failed), 4, 6, Statistics Testing, Helped begin Questions 8 and 9
+* Callie - 2 , 3 , DataSet Investigation, Question Construction, Project Writing
 * Qonesha - 8 , 9
-* Daniel - Presenter, 7, 10
+* Daniel - Presenter, API Investigation, Dataset Outliers, 7, 10, Helped begin Questions 1 and 5
 * Christian - 1, 5 
