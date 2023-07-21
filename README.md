@@ -32,8 +32,7 @@
     8. How does tempo compare to popularity?
     9. How does genre compare to popularity?
     10. How does speechiness compare to popularity?
-    11. API Question: Popularity vs location of artist birth/life? 
-    12. API Question: Relating spotify popularity to youtube popularity?
+
 
 ### Datasets to be used
     https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019
@@ -43,8 +42,12 @@
     https://api.chartmetric.com/apidoc/
 
 ### Rough breakdown of tasks
-* Ryland - Group Lead, Initial Merge (Failed), 4, 6, Statistics Testing, Helped begin Questions 8 and 9
-* Callie - 2 , 3 , DataSet Investigation, Question Construction, Project Writing
-* Qonesha - 8 , 9
-* Daniel - Presenter, API Investigation, Dataset Outliers, 7, 10, Helped begin Questions 1 and 5
-* Christian - 1, 5 
+* Ryland - Group Lead, Initial Merge (Failed), Question 4, Question 6, Statistics Testing, Helped begin Questions 8 and 9, Further Exploratory Regressions, Slideshow Slide Creation
+* Callie - Question 2 , Question 3 , DataSet Investigation, Question Construction, Project Writing, Helped Questions 1 and 5, Further Exploratory Regressions, Slideshow Slide Creation
+* Qonesha - Question 8 , Question 9, Further Exploratory Regressions, Slideshow Slide Creation
+* Daniel - Lead Presenter, API Investigation, Dataset Outliers, Question 7, Question 10, Helped begin Questions 1 and 5, Further Exploratory Regressions, Slideshow Slide Creation
+* Christian 
+
+### Analysis and Conclusion
+    In picking a dataset, our focus was on selecting a group of data that allowed our group to discover the perfect formula for writing a song. The dataset we found included a large number of metrics that ended up being somewhat vague but included many songs we found familiar. Below you will find the results from this dataset in an attempt to discover the perfect formula for a song. 
+    The main metric that was investigated is popularity. This is a metric where each song was given a score between 0 and 100 based on its popularity. We dived
