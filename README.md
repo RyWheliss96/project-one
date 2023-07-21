@@ -49,5 +49,5 @@
 * Christian 
 
 ### Analysis and Conclusion
-    In picking a dataset, our focus was on selecting a group of data that allowed our group to discover the perfect formula for writing a song. The dataset we found included a large number of metrics that ended up being somewhat vague but included many songs we found familiar. Below you will find the results from this dataset in an attempt to discover the perfect formula for a song. 
-    The main metric that was investigated is popularity. This is a metric where each song was given a score between 0 and 100 based on its popularity. We dived
+    <p> In picking a dataset, our focus was on selecting a group of data that allowed our group to discover the perfect formula for writing a song. The dataset we found included a large number of metrics that ended up being somewhat vague but included many songs we found familiar. Below you will find the results from this dataset in an attempt to discover the perfect formula for a song. </p>
+    <p> The main metric that was investigated is popularity. This is a metric where each song was given a score between 0 and 100 based on its popularity. We dived </p>
