@@ -49,7 +49,7 @@
     (https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019)
 
     [Slide Deck]
-    (https://docs.google.com/presentation/d/1hY0dfneX7TJAyW7ltHnSdLDUc5m1oHHfoIUvxelOOSQ/edit?pli=1#slide=id.g25aabd231b8_0_36)
+    (https://docs.google.com/presentation/d/1hY0dfneX7TJAyW7ltHnSdLDUc5m1oHHfoIUvxelOOSQ/edit?pli=1#slide=id.p)
 
 ### Task Delineation
 * Ryland - Group Lead, Initial Merge (Failed), Question 4, Question 6, Statistics Testing, Helped begin Questions 8 and 9, Further Exploratory Regressions, Slideshow Slide Creation
