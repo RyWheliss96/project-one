@@ -1,64 +1,148 @@
 # project-one
-
 ## Initial Project
+-------------------------------------------------------------------------------
 
-### Project Title:
+## Project Title:
     My Python [Don't Want None] Unless You've Got API's, Hun
+-------------------------------------------------------------------------------
 
-### Team Members:
+## Team Members:
 * Ryland Wheliss
 * Callie Carlton
 * Daniel Meyerowitz
 * Christian Lingle
 * Qonesha Hunter
 
-### Project Description/Outline
-    1. Merge the data (this didn't work as expected, used original dataset)
-    2. Compare variables to address research questions
-    3. Create visualizations of analyses
-    4. Incorporate an API into our data set (time/access permitting)
-    5. Draft written analysis of the data
-    6. Create and present a formal presentation
+-------------------------------------------------------------------------------
 
+## Project Description/Outline
+### Data Collection and Analyses
+1. Import, read, and display the data found in Kaggle
+2. Compare variables to address research questions
+3. Create visualizations of analyses
 
-### Research Questions and Answers After Analyses
-    1. How does the danceability correlate to popularity?
-        * Danceability and popularity do not correlate in this dataset
-    2. How does energy compare to popularity?
-        * Energy and popularity do not correlate in this dataset
-    3. How does Explicit content affect popularity?
-        * Explicit content does not negatively affect popularity in this dataset-in fact, the majority of the most popular songs contained explicit content 
-    4. How does key compare to popularity?
-        * C# was the most popular song key for this dataset
-    5. How does acousticness compare to popularity?
-        * Acousticness and popularity do not correlate in this dataset
-    6. How does liveness compare to popularity? (Boolean?)
-        * Liveness and popularity do not correlate in this dataset
-    7. How does valence compare to popularity?
-        * Valence and popularity do not correlate in this dataset
-    8. How does tempo compare to popularity?
-        * Tempo and popularity do not correlate in this dataset
-    9. How does genre compare to popularity?
-        * Pop was by far the most popular genre in this dataset
-    10. How does speechiness compare to popularity?
-        * Speechiness and popularity do not correlate in this dataset
+### Presentation and Summarization 
+4. Create and present a formal presentation
+5. Draft written analysis of the data
+6. Summarize conclusions
 
+-------------------------------------------------------------------------------
 
-### Datasets
-    [Top Hits Spotify from 2000-2019]
-    (https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019)
+## Research Questions-Pursuing the Recipe for the Perfect Song
+1. How does the danceability correlate to popularity?
+2. How does energy compare to popularity?
+3. How does Explicit content affect popularity?
+4. How does key compare to popularity?
+5. How does acousticness compare to popularity?
+6. How does liveness compare to popularity? 
+7. How does valence compare to popularity?
+8. How does tempo compare to popularity?
+9. How does genre compare to popularity?
+10. How does speechiness compare to popularity?
 
-    [Slide Deck]
-    (https://docs.google.com/presentation/d/1hY0dfneX7TJAyW7ltHnSdLDUc5m1oHHfoIUvxelOOSQ/edit?pli=1#slide=id.p)
+-------------------------------------------------------------------------------
 
-### Task Delineation
+## Datasets
+Top Hits Spotify from 2000-2019
+(https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019)
+
+Slide Deck
+(https://docs.google.com/presentation/d/1hY0dfneX7TJAyW7ltHnSdLDUc5m1oHHfoIUvxelOOSQ/edit?pli=1#slide=id.p)
+
+-------------------------------------------------------------------------------
+
+## Task Delineation
 * Ryland - Group Lead, Initial Merge (Failed), Question 4, Question 6, Statistics Testing, Helped begin Questions 8 and 9, Further Exploratory Regressions, Slideshow Slide Creation
 * Callie - Question 2 , Question 3 , DataSet Investigation, Question Construction, Project Writing, Helped Questions 1 and 5, Further Exploratory Regressions, Slideshow Slide Creation
 * Qonesha - Question 8 , Question 9, Further Exploratory Regressions, Slideshow Slide Creation
 * Daniel - Lead Presenter, API Investigation, Dataset Outliers, Question 7, Question 10, Helped begin Questions 1 and 5, Further Exploratory Regressions, Slideshow Slide Creation
 * Christian 
 
-### Analysis and Conclusion
+-------------------------------------------------------------------------------
+
+## Repository Table of Contents
+* "Resources" folder containing the original CSV file
+* "Output" folder containing png images of the graphs, maps, and summary statistics analyzed for this project
+* "Data_Exploration_and_Cleanup" folder containing each participant's code addtions prior to merging
+* final_analysis.ipynb - Jupyter Notebook containing final combined analysis
+
+-------------------------------------------------------------------------------
+
+## Analysis
+**How does the danceability correlate to popularity?**
+* Danceability and popularity do not correlate in this dataset
+
+![popular_danceability_plot](Output/popular_danceability_plot.PNG)
+
+  
+
+**How does energy compare to popularity?**
+* Energy and popularity do not correlate in this dataset
+
+![popular_energy_plot](Output/popular_energy_plot.PNG)
+
+
+
+**How does Explicit content affect popularity?**
+* Explicit content does not negatively affect popularity in this dataset
+* In fact, the majority of the most popular songs contained explicit content 
+
+![popular_explicit_pie](Output/popular_explicit_pie.PNG)
+
+
+
+**How does key compare to popularity?**
+* C# was the most popular song key for this dataset
+
+![popular_keys_pie](Output/popular_keys_pie.png)
+![popular_keys_bar](Output/popular_keys_bar.png)
+
+
+**How does acousticness compare to popularity?**
+* Acousticness and popularity do not correlate in this dataset
+
+![popular_acousticness_plot](Output/popular_acousticness_plot.PNG)
+
+
+
+**How does liveness compare to popularity?**
+* Liveness and popularity do not correlate in this dataset
+
+![popular_liveness_plot](Output/popular_liveness_plot.PNG)
+
+
+
+**How does valence compare to popularity?**
+* Valence and popularity do not correlate in this dataset
+
+![popular_valence_plot](Output/popular_valence_plot.PNG)
+
+
+
+**How does tempo compare to popularity?**
+* Tempo and popularity do not correlate in this dataset
+
+![popular_tempo_plot](Output/popular_tempo_plot.PNG)
+
+
+
+**How does genre compare to popularity?**
+* Pop was by far the most popular genre in this dataset
+
+![popular_genre_bar](Output/popular_genre_bar.PNG)
+
+
+
+**How does speechiness compare to popularity?**
+* Speechiness and popularity do not correlate in this dataset
+
+![popular_speechiness_plot](Output/popular_speechiness_plot.PNG)
+
+
+
+-------------------------------------------------------------------------------
+
+### Conclusion
 In choosing a dataset, our focus was on selecting data that enabled our group to discover the perfect formula for writing a song. The first dataset we considered included a large number of intersting metrics and included many songs we found familiar. The second dataset we considered had a larger volume of data, but had far fewer variables to examine. Originally, we considered merging the 2 different datasets on song title, as they initially appeared to have overlapping data. However, once we attempted the merge, it cut down the volume of our dataset significantly-so we decided to move forward with the inital dataset as there were more factors to analyze.
 
 We then began by leveraging each variable present in the dataset against the song's popularity. In this dataset, each song was given a score between 0 and 100 based on its popularity. We wanted to specify a base determinant of popularity, so we dove into the songs with a popularity score greater than 50 and investigated the statistical significance of the popular songs against the dataset as a whole. We conducted a One Sample T-Test and found that the popular songs were statistically significant with a p-value = 1.876245645341364e-227. This gave us confidence to use the popular song specification for later correlation analyses.
@@ -76,3 +160,5 @@ Unfortunately, most of the variables we analyzed in this dataset did not appear 
 We must take time to highlight some factors that potentially skewed our results. This dataset was pulled from a software-generated Spotify playlist, but not from general Spotify data across the software platform as a whole. Additionally, the variables that we tested are not as clearly defined as we would have hoped. For example, the "danceability" variable was defined as "how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity" but the dataset creator did not further explain how the results was measured-this is the case for several of the variables present. Finally, the measure of popularity was not clearly defined outside of "the higher the value the more popular the song is", so we are unsure how this metric was calculated.
 
 Even though we were unable to truly answer our question regarding which factors must be present to make a song popular, we still believe that our analyses of this dataset drew interesting conclusions. Outside of genre and perhaps key, there really did not appear to be a magic formula present for making a song a chart-topper. Whether it was due to the flaws in our dataset, the limitations of our sample size, or some other unknown reason, our analysis shows that popularity is not mutually exclusive to certain necessary variables. We believe this should be inspiring to future music artists, especially in the wake of AI-generated art-there still appears to be some "it" factor present that determines whether or not a song will have broad and lasting popularity.
+
+-------------------------------------------------------------------------------
